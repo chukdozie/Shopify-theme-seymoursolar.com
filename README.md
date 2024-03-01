@@ -1,0 +1,2 @@
+# Shopify-theme-seymoursolar.com
+ 
