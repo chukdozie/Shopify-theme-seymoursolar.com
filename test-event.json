@@ -1,0 +1,29 @@
+{
+    "0": "event",
+    "1": "purchase",
+    "2": {
+        "send_to": [
+            "G-MXET9RF38V",
+            "AW-1057126629/HHYJCNeatY4ZEOXxifgD",
+            "MC-78B7CLVET8"
+        ],
+        "transaction_id": 5972490027301,
+        "value": "0.00",
+        "currency": "USD",
+        "tax": "0.00",
+        "shipping": "0.00",
+        "items": [
+            {
+                "id": "shopify_US_9103051424037_48079402467621",
+                "name": "Test product",
+                "brand": "Seymour Solar",
+                "category": "",
+                "coupon": null,
+                "price": "0.00",
+                "quantity": 1,
+                "variant": null
+            }
+        ],
+        "ignore_referrer": "true"
+    }
+}
